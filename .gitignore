@@ -1,0 +1,30 @@
+# Virtual environment folder
+venv/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Uploaded or temporary video files
+uploaded_video.mp4
+test_video.mp4
+uploaded_videos/
+
+# Environment variable files
+.env
+
+# Firebase service account key (sensitive)
+serviceAccountKey.json
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
